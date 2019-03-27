@@ -1,0 +1,15 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  references: MyString
+  Event: MyString
+  Ticket_Type: MyString
+  Ticket_Order: MyString
+  User: MyString
+
+two:
+  references: MyString
+  Event: MyString
+  Ticket_Type: MyString
+  Ticket_Order: MyString
+  User: MyString
