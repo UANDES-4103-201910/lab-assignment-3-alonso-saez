@@ -3,13 +3,11 @@
 one:
   name: MyString
   description: MyString
-  start_date: 2019-03-27
-  references: MyString
-  Event_Venue: MyString
+  start_date: 2019-03-28
+  Event_Venue: one
 
 two:
   name: MyString
   description: MyString
-  start_date: 2019-03-27
-  references: MyString
-  Event_Venue: MyString
+  start_date: 2019-03-28
+  Event_Venue: two
